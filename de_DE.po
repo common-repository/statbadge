@@ -1,0 +1,391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: statbadge\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-21 11:49+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: statbadge.php:76
+#: svn/tags/0.1/statbadge.php:61
+#: svn/tags/0.2/statbadge.php:66
+#: svn/tags/0.3/statbadge.php:67
+msgid "Border style"
+msgstr "Rahmen"
+
+#: statbadge.php:76
+#: lib/statbadgehelper.class.php:55
+#: svn/tags/0.1/statbadge.php:61
+#: svn/tags/0.1/lib/statbadgehelper.class.php:55
+#: svn/tags/0.2/statbadge.php:66
+#: svn/tags/0.2/lib/statbadgehelper.class.php:55
+#: svn/tags/0.3/statbadge.php:67
+msgid "no"
+msgstr "nein"
+
+#: statbadge.php:76
+#: svn/tags/0.1/statbadge.php:61
+#: svn/tags/0.2/statbadge.php:66
+#: svn/tags/0.3/statbadge.php:67
+msgid "edgy"
+msgstr "eckig"
+
+#: statbadge.php:76
+#: svn/tags/0.1/statbadge.php:61
+#: svn/tags/0.2/statbadge.php:66
+#: svn/tags/0.3/statbadge.php:67
+msgid "round"
+msgstr "rund"
+
+#: statbadge.php:77
+#: svn/tags/0.1/statbadge.php:62
+#: svn/tags/0.2/statbadge.php:67
+#: svn/tags/0.3/statbadge.php:68
+msgid "Border width"
+msgstr "Rahmenbreite"
+
+#: statbadge.php:77
+#: svn/tags/0.1/statbadge.php:62
+#: svn/tags/0.2/statbadge.php:67
+#: svn/tags/0.3/statbadge.php:68
+msgid "pixel"
+msgstr "Pixel"
+
+#: statbadge.php:78
+#: svn/tags/0.1/statbadge.php:63
+#: svn/tags/0.2/statbadge.php:68
+#: svn/tags/0.3/statbadge.php:69
+msgid "Border color"
+msgstr "Rahmenfarbe"
+
+#: statbadge.php:79
+#: svn/tags/0.1/statbadge.php:64
+#: svn/tags/0.2/statbadge.php:69
+#: svn/tags/0.3/statbadge.php:70
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+#: statbadge.php:80
+#: svn/tags/0.2/statbadge.php:70
+#: svn/tags/0.3/statbadge.php:71
+msgid "Title"
+msgstr "Titel"
+
+#: statbadge.php:81
+#: svn/tags/0.1/statbadge.php:65
+#: svn/tags/0.2/statbadge.php:71
+#: svn/tags/0.3/statbadge.php:72
+msgid "Font color"
+msgstr "Schriftfarbe"
+
+#: statbadge.php:82
+#: svn/tags/0.1/statbadge.php:66
+#: svn/tags/0.2/statbadge.php:72
+#: svn/tags/0.3/statbadge.php:73
+msgid "Post count"
+msgstr "Beiträge"
+
+#: statbadge.php:83
+#: svn/tags/0.1/statbadge.php:67
+#: svn/tags/0.2/statbadge.php:73
+#: svn/tags/0.3/statbadge.php:74
+msgid "Page count"
+msgstr "Seiten"
+
+#: statbadge.php:84
+#: svn/tags/0.1/statbadge.php:68
+#: svn/tags/0.2/statbadge.php:74
+#: svn/tags/0.3/statbadge.php:75
+msgid "Comment count"
+msgstr "Kommentare"
+
+#: statbadge.php:85
+#: svn/tags/0.1/statbadge.php:69
+#: svn/tags/0.2/statbadge.php:75
+#: svn/tags/0.3/statbadge.php:76
+msgid "Category count"
+msgstr "Kategorien"
+
+#: statbadge.php:86
+#: svn/tags/0.1/statbadge.php:70
+#: svn/tags/0.2/statbadge.php:76
+#: svn/tags/0.3/statbadge.php:77
+msgid "Tag count"
+msgstr "Tags"
+
+#: statbadge.php:87
+msgid "User count"
+msgstr "Benutzer"
+
+#: statbadge.php:88
+#: svn/tags/0.1/statbadge.php:71
+#: svn/tags/0.2/statbadge.php:77
+#: svn/tags/0.3/statbadge.php:78
+msgid "Widget count"
+msgstr "Widgets"
+
+#: statbadge.php:89
+#: svn/tags/0.1/statbadge.php:72
+#: svn/tags/0.2/statbadge.php:78
+#: svn/tags/0.3/statbadge.php:79
+msgid "Active plugin count"
+msgstr "Plugins"
+
+#: statbadge.php:90
+#: svn/tags/0.1/statbadge.php:73
+#: svn/tags/0.2/statbadge.php:79
+#: svn/tags/0.3/statbadge.php:80
+msgid "Age of blog"
+msgstr "Alter des Blogs"
+
+#: statbadge.php:93
+#: statbadge.php:563
+#: svn/tags/0.1/statbadge.php:76
+#: svn/tags/0.1/statbadge.php:501
+#: svn/tags/0.2/statbadge.php:82
+#: svn/tags/0.2/statbadge.php:507
+#: svn/tags/0.3/statbadge.php:83
+#: svn/tags/0.3/statbadge.php:508
+msgid "Pagerank"
+msgstr ""
+
+#: statbadge.php:94
+#: svn/tags/0.1/statbadge.php:77
+#: svn/tags/0.2/statbadge.php:83
+#: svn/tags/0.3/statbadge.php:84
+msgid "Alexa ranking"
+msgstr "Alexa-Ranking"
+
+#: statbadge.php:95
+#: svn/tags/0.1/statbadge.php:78
+#: svn/tags/0.2/statbadge.php:84
+#: svn/tags/0.3/statbadge.php:85
+msgid "Technorati <a href=\"http://technorati.com/developers/api/\" target=\"_blank\">API Key</a>"
+msgstr ""
+
+#: statbadge.php:95
+#: svn/tags/0.1/statbadge.php:78
+#: svn/tags/0.2/statbadge.php:84
+#: svn/tags/0.3/statbadge.php:85
+msgid "Just necessary for Technorati-Ranking and Backlinks"
+msgstr "Wird nur für Technorati-Ranking und Backlinks-Anzeige benötigt."
+
+#: statbadge.php:96
+#: svn/tags/0.1/statbadge.php:79
+#: svn/tags/0.2/statbadge.php:85
+#: svn/tags/0.3/statbadge.php:86
+msgid "Technorati ranking"
+msgstr "Technorati-Ranking"
+
+#: statbadge.php:97
+#: svn/tags/0.1/statbadge.php:80
+#: svn/tags/0.2/statbadge.php:86
+#: svn/tags/0.3/statbadge.php:87
+msgid "Backlink count"
+msgstr "Backlinks"
+
+#: statbadge.php:98
+#: svn/tags/0.1/statbadge.php:81
+#: svn/tags/0.2/statbadge.php:87
+#: svn/tags/0.3/statbadge.php:88
+msgid "Blog activity"
+msgstr "Blogaktivität"
+
+#: statbadge.php:99
+msgid "Twitter-Counter"
+msgstr "Twitter-Counter"
+
+#: statbadge.php:99
+msgid "Show number of Twitter follower?"
+msgstr "Anzahl der Twitter-Follower anzeigen?"
+
+#: statbadge.php:101
+msgid "Twitter-Name"
+msgstr "Twitter-Name"
+
+#: statbadge.php:101
+msgid "your Twitter username"
+msgstr "Dein Twitter-Benutzername"
+
+#: statbadge.php:103
+#: svn/tags/0.1/statbadge.php:83
+#: svn/tags/0.2/statbadge.php:89
+#: svn/tags/0.3/statbadge.php:90
+msgid "Active theme"
+msgstr "aktives Theme"
+
+#: statbadge.php:111
+#: svn/tags/0.1/statbadge.php:89
+#: svn/tags/0.2/statbadge.php:97
+#: svn/tags/0.3/statbadge.php:98
+msgid "Settings saved!"
+msgstr "Die Einstellungen wurden gespeichert!"
+
+#: statbadge.php:117
+#: svn/tags/0.1/statbadge.php:95
+#: svn/tags/0.2/statbadge.php:103
+#: svn/tags/0.3/statbadge.php:104
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: statbadge.php:122
+#: svn/tags/0.1/statbadge.php:100
+#: svn/tags/0.2/statbadge.php:108
+#: svn/tags/0.3/statbadge.php:109
+msgid "Warning! The cachedirectory is missing or not writeable!"
+msgstr "Warnung! Das Cache-Verzeichnis existiert nicht oder ist schreibgeschützt!"
+
+#: statbadge.php:138
+#: svn/tags/0.1/statbadge.php:116
+#: svn/tags/0.2/statbadge.php:124
+#: svn/tags/0.3/statbadge.php:125
+msgid "save"
+msgstr "speichern"
+
+#: statbadge.php:530
+#: svn/tags/0.3/statbadge.php:486
+msgid "day"
+msgstr "Tag"
+
+#: statbadge.php:530
+#: svn/tags/0.3/statbadge.php:486
+msgid "days"
+msgstr "Tage"
+
+#: statbadge.php:552
+#: svn/tags/0.1/statbadge.php:492
+#: svn/tags/0.2/statbadge.php:498
+#: svn/tags/0.3/statbadge.php:499
+msgid "Posts"
+msgstr "Beiträge"
+
+#: statbadge.php:553
+msgid "Twitter"
+msgstr "Twitter"
+
+#: statbadge.php:554
+#: svn/tags/0.1/statbadge.php:493
+#: svn/tags/0.2/statbadge.php:499
+#: svn/tags/0.3/statbadge.php:500
+msgid "Pages"
+msgstr "Seiten"
+
+#: statbadge.php:555
+#: svn/tags/0.1/statbadge.php:494
+#: svn/tags/0.2/statbadge.php:500
+#: svn/tags/0.3/statbadge.php:501
+msgid "Comments"
+msgstr "Kommentare"
+
+#: statbadge.php:556
+#: svn/tags/0.1/statbadge.php:495
+#: svn/tags/0.2/statbadge.php:501
+#: svn/tags/0.3/statbadge.php:502
+msgid "Categories"
+msgstr "Kategorien"
+
+#: statbadge.php:557
+msgid "Users"
+msgstr "Benutzer"
+
+#: statbadge.php:558
+#: svn/tags/0.1/statbadge.php:496
+#: svn/tags/0.2/statbadge.php:502
+#: svn/tags/0.3/statbadge.php:503
+msgid "Tags"
+msgstr ""
+
+#: statbadge.php:559
+#: svn/tags/0.1/statbadge.php:497
+#: svn/tags/0.2/statbadge.php:503
+#: svn/tags/0.3/statbadge.php:504
+msgid "Widgets"
+msgstr ""
+
+#: statbadge.php:560
+#: svn/tags/0.1/statbadge.php:498
+#: svn/tags/0.2/statbadge.php:504
+#: svn/tags/0.3/statbadge.php:505
+msgid "Active Plugins"
+msgstr "aktive Plugins"
+
+#: statbadge.php:561
+#: svn/tags/0.1/statbadge.php:499
+#: svn/tags/0.2/statbadge.php:505
+#: svn/tags/0.3/statbadge.php:506
+msgid "Blogage"
+msgstr "Blog-Alter"
+
+#: statbadge.php:564
+#: svn/tags/0.1/statbadge.php:502
+#: svn/tags/0.2/statbadge.php:508
+#: svn/tags/0.3/statbadge.php:509
+msgid "Alexarank"
+msgstr "Alexa-Ranking"
+
+#: statbadge.php:565
+#: svn/tags/0.1/statbadge.php:503
+#: svn/tags/0.2/statbadge.php:509
+#: svn/tags/0.3/statbadge.php:510
+msgid "Technorati"
+msgstr ""
+
+#: statbadge.php:566
+#: svn/tags/0.1/statbadge.php:504
+#: svn/tags/0.2/statbadge.php:510
+#: svn/tags/0.3/statbadge.php:511
+msgid "Backlinks"
+msgstr ""
+
+#: statbadge.php:567
+#: svn/tags/0.1/statbadge.php:505
+#: svn/tags/0.2/statbadge.php:511
+#: svn/tags/0.3/statbadge.php:512
+msgid "Activity"
+msgstr "Aktivität"
+
+#: statbadge.php:569
+#: svn/tags/0.1/statbadge.php:507
+#: svn/tags/0.2/statbadge.php:513
+#: svn/tags/0.3/statbadge.php:514
+msgid "Theme"
+msgstr ""
+
+#: lib/statbadgehelper.class.php:51
+#: svn/tags/0.1/lib/statbadgehelper.class.php:51
+#: svn/tags/0.2/lib/statbadgehelper.class.php:51
+msgid "yes"
+msgstr "ja"
+
+#~ msgid " Tag"
+#~ msgstr " day"
+#~ msgid " Tage"
+#~ msgstr " days"
+#~ msgid "needed to get subscriber"
+#~ msgstr "ben&ouml;tigt um die Feedleser zu ermitteln"
+#~ msgid "Subscriber"
+#~ msgstr "Feed-Leser"
+#~ msgid "select color"
+#~ msgstr "Farbe wählen"
+#~ msgid "Subscriber count"
+#~ msgstr "Feed-Leser"
+#~ msgid "Blog score"
+#~ msgstr "Blog-Score"
+#~ msgid "Calculated from all selected values above."
+#~ msgstr "Wir aus allen ausgewählten Werten berechnet."
+#~ msgid "Cache flushed!"
+#~ msgstr "Cache wurde gelöscht!"
+#~ msgid "chmod 777 may help!"
+#~ msgstr "chmod 777 könnte helfen!"
+#~ msgid "flush cache"
+#~ msgstr "Cache löschen"
+#~ msgid "Select what Statbadge should show."
+#~ msgstr "Auswählen, was angezeigt werden soll"
+
